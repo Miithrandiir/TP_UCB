@@ -4,9 +4,9 @@
 
 2. Dans quel(s) cas la stratégie gloutonne est la meilleure ?
 
-> Quand le K est petit => Algorithme glouton
+> Quand le K est petit, la stratégie UCB à le même comportement que l'algorithme glouton
 > 
-> Quand K est élevé => Algorithme aléatoire
+> Quand K est élevé, la stratégie UCB à le même comportement que l'algorithme aléatoire
 
 3. Dans quel(s) cas la stratégie UCB est la meilleure ?
 
